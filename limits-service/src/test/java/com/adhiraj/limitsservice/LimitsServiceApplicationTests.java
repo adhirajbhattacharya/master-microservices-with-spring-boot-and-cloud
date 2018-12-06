@@ -1,4 +1,4 @@
-package limitsservice;
+package com.adhiraj.limitsservice;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
